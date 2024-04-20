@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="firebase_database_url">https://bd-appesc.firebaseio.com</string>
+    <string name="ga_trackingId">UA-618250606941-1</string>
+    <string name="firebase_storage_bucket">bd-appesc.appspot.com</string>
+</resources>
